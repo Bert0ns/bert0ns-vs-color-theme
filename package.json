@@ -3,6 +3,10 @@
   "displayName": "bert0ns-vs-color-theme",
   "description": "My personal VS code color theme extension, personalized from eva dark bold theme",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bert0ns/bert0ns-vs-color-theme"
+  },
   "engines": {
     "vscode": "^1.106.1"
   },
