@@ -1,0 +1,21 @@
+{
+  "name": "bert0ns-vs-color-theme",
+  "displayName": "bert0ns-vs-color-theme",
+  "description": "My personal VS code color theme extension, personalized from eva dark bold theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bert0ns Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bert0ns Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
