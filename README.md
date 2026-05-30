@@ -4,7 +4,7 @@ Copied Eva dark bold theme, but improved IDE text contrast
 
 ## Installation
 
-To install this theme locally:
+To install this theme locally (Need Node 20+):
 
 1.  **Package the extension:**
     Run the following command in the terminal to create a `.vsix` file:
